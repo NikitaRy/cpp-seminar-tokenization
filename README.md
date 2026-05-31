@@ -1,1 +1,1 @@
-# cpp-seminar-tokenezation
+# cpp-seminar-tokenization
